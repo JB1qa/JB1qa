@@ -1,5 +1,7 @@
 Header
-[![Header](https://github.com/JB1qa/JB1qa/blob/main/assets/png.png)(https://www.upwork.com/freelancers/~0138365458ec207a4c)]
+[![Header](https://github.com/JB1qa/JB1qa/blob/main/assets/png.png)](http://google.com.au/)
+
+
 
 Latest videos
 
@@ -10,3 +12,4 @@ Follow Me
 
 [def]: https://github.com/JB1qa/JB1qa/blob/main/assets/png.png
 [def2]: https://github.com/JB1qa/JB1qa/blob/main/assets/png.png
+[def3]: https://github.com/JB1qa/JB1qa/blob/main/assets/png.png
