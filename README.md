@@ -18,7 +18,7 @@
 - Postman Collections.
 # 
 ## Languages and Tools
- ![Jira](https://img.shields.io/badge/Jira-D7D7D7?style=for-the-badge&logo=Jira&logoColor=0052CC)
+ ![Jira](https://img.shields.io/badge/Jira-E9E9E9?style=for-the-badge&logo=Jira&logoColor=0052CC)
  ![Trello](https://img.shields.io/badge/Trello-D7D7D7?style=for-the-badge&logo=Trello&logoColor=0052CC)
  ![Confluence](https://img.shields.io/badge/Confluence-D7D7D7?style=for-the-badge&logo=Confluence&logoColor=172B4D)
  ![Postman](https://img.shields.io/badge/Postman-D7D7D7?style=for-the-badge&logo=Postman&logoColor=FF6C37)
