@@ -27,7 +27,7 @@
 ![Figma](https://img.shields.io/badge/Figma-E9E9E9?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 #
 ## Follow Me: 
-![Linkedin](https://img.shields.io/badge/Linkedin-E9E9E9?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)
-![Instagram](https://img.shields.io/badge/Instagram-E9E9E9?style=for-the-badge&logo=Instagram&logoColor=E4405F)
+[![Linkedin](https://img.shields.io/badge/Linkedin-E9E9E9?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/yaroslav-bryk/)
+[![Instagram](https://img.shields.io/badge/Instagram-E9E9E9?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/jaroslav_bryk/)
 
 
