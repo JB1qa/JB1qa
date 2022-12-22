@@ -8,7 +8,7 @@
 ## Companies: 
  ![Ovedose Digital](https://img.shields.io/badge/Overdose%20Digital-(03%2F2021%20--%2002%2F2021)-orange?style=for-the-badge)
 
- ![Freshcode](https://img.shields.io/badge/Freshcode-(03%2F2021%20--%2002%2F2021)-orange?style=for-the-badge)
+ [![Freshcode](https://img.shields.io/badge/Freshcode-(03%2F2021%20--%2002%2F2021)-orange?style=for-the-badge)](https://freshcodeit.com/)
 
 ## Testing documentation
 - Checklists; 
