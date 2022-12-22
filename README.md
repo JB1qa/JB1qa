@@ -19,15 +19,15 @@
 # 
 ## Languages and Tools
  ![Jira](https://img.shields.io/badge/Jira-E9E9E9?style=for-the-badge&logo=Jira&logoColor=0052CC)
- ![Trello](https://img.shields.io/badge/Trello-D7D7D7?style=for-the-badge&logo=Trello&logoColor=0052CC)
- ![Confluence](https://img.shields.io/badge/Confluence-D7D7D7?style=for-the-badge&logo=Confluence&logoColor=172B4D)
- ![Postman](https://img.shields.io/badge/Postman-D7D7D7?style=for-the-badge&logo=Postman&logoColor=FF6C37)
- ![Magento](https://img.shields.io/badge/Magento-D7D7D7?style=for-the-badge&logo=Magento&logoColor=EE672F)
-![Shopify testing](https://img.shields.io/badge/Shopify-D7D7D7?style=for-the-badge&logo=Shopify&logoColor=7AB55C)
-![Figma](https://img.shields.io/badge/Figma-D7D7D7?style=for-the-badge&logo=Figma&logoColor=F24E1E)
+ ![Trello](https://img.shields.io/badge/Trello-E9E9E9?style=for-the-badge&logo=Trello&logoColor=0052CC)
+ ![Confluence](https://img.shields.io/badge/Confluence-E9E9E9?style=for-the-badge&logo=Confluence&logoColor=172B4D)
+ ![Postman](https://img.shields.io/badge/Postman-E9E9E9?style=for-the-badge&logo=Postman&logoColor=FF6C37)
+ ![Magento](https://img.shields.io/badge/Magento-E9E9E9?style=for-the-badge&logo=Magento&logoColor=EE672F)
+![Shopify testing](https://img.shields.io/badge/Shopify-E9E9E9?style=for-the-badge&logo=Shopify&logoColor=7AB55C)
+![Figma](https://img.shields.io/badge/Figma-E9E9E9?style=for-the-badge&logo=Figma&logoColor=F24E1E)
 #
 ## Follow Me: 
-![Linkedin](https://img.shields.io/badge/Linkedin-D7D7D7?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)
-![Instagram](https://img.shields.io/badge/Instagram-D7D7D7?style=for-the-badge&logo=Instagram&logoColor=E4405F)
+![Linkedin](https://img.shields.io/badge/Linkedin-E9E9E9?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)
+![Instagram](https://img.shields.io/badge/Instagram-E9E9E9?style=for-the-badge&logo=Instagram&logoColor=E4405F)
 
 
