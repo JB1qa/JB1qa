@@ -2,7 +2,7 @@
 ### Hello. I am a Manual QA Engineer.
 #
 ## My Detailed CV: 
-[Link to CV](https://drive.google.com/file/d/1cQCY6D_5c_7Y5WWlh0jDmhzdvNAvQFCM/view?usp=share_link)
+[Link to CV](https://drive.google.com/file/d/1bMXGQ8iwEl6yvFNB5I7qWz9sqC4mWG6B/view?usp=share_link)
 #
 ###
 ## Companies: 
