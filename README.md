@@ -11,7 +11,7 @@
  [![Freshcode](https://img.shields.io/badge/Freshcode-(03%2F2021%20--%2002%2F2021)-orange?style=for-the-badge)](https://freshcodeit.com/)
 
 ## Testing documentation
-- Checklists; 
+- [Checklists](https://docs.google.com/spreadsheets/d/15HHKwYDwW5TCRHVRWs3vyvhjsHY-qRRrLTUPGrRH_Yk/); 
 - Test cases and suites; 
 - Bug-Reports; 
 - SQL-Queries; 
