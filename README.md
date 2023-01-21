@@ -12,7 +12,7 @@
 
 ## Testing documentation
 - [Checklists](https://docs.google.com/spreadsheets/d/15HHKwYDwW5TCRHVRWs3vyvhjsHY-qRRrLTUPGrRH_Yk/); 
-- Test cases and suites; 
+- [Test cases and suites](https://docs.google.com/spreadsheets/d/1-fiORRdHnT4u8t8mMzo2xusmF8okQ_prmNKoR7WsAhs/); 
 - Bug-Reports; 
 - SQL-Queries; 
 - Postman Collections.
